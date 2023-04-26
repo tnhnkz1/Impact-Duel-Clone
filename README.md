@@ -1,6 +1,8 @@
 # Impact-Duel-Clone
 This is a game by RotateLab.
 
+Only the the script titler "PlayerMovementController_2" is usee for player movement in the game. Not all the scripts are used.
+
 
 https://user-images.githubusercontent.com/101358073/233071997-d08c19a8-329c-4bda-b68e-e853138ca341.mp4
 
